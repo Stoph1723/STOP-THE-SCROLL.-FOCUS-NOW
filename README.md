@@ -77,7 +77,7 @@ TIME'S UP! | youtube.com | 20m SPENT +2m OVER
 1. Download the extension ZIP file.  
 2. Open `chrome://extensions/` in Chrome.  
 3. Enable Developer mode.  
-4. Drag and drop the ZIP folder.  
+4. Unizp the file and Drag and drop the folder.  
 5. Start focusing!  
 
 ---
